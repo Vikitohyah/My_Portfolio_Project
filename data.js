@@ -1,34 +1,34 @@
 export default [
   null,
   {
-    image: 'https://s-media-cache-ak0.pinimg.com/564x/bc/6d/d8/bc6dd84ab48f40e09f5b4f0409c5471c.jpg',
-    name: 'Mawusi Amele',
+    image: 'https://www.canva.com/design/DAF-SF6ugSs/I9NMIpWGxlaTcJmfMkGTnw/view?utm_content=DAF-SF6ugSs&utm_campaign=designshare&utm_medium=link&utm_source=editor',
+    name: 'Racheal Smith',
     age: 26,
-    description: 'Christian Model'
+    description: 'Clearly your Christian Model'
   },
   {
-    image: 'https://s-media-cache-ak0.pinimg.com/564x/5c/a0/f1/5ca0f13dd50ed9f6d630d8a7d7da0f3e.jpg',
-    name: 'Abidemi Coker',
-    age: 35,
-    description: 'People are the beauty of life'
+    image: 'https://www.canva.com/design/DAF-SD1ENXM/NR6wEYFxzLd8v1yv7duf3A/view?utm_content=DAF-SD1ENXM&utm_campaign=designshare&utm_medium=link&utm_source=editor',
+    name: 'Kemisola Coker',
+    age: 25,
+    description: 'The greatest Showgirl'
   },
   {
-    image: 'https://s-media-cache-ak0.pinimg.com/564x/c4/67/49/c467498720c056c241dc1226f7290597.jpg',
-    name: 'Desiree',
-    age: 24,
+    image: 'https://www.canva.com/design/DAF-SdXvTKU/eRSCbkuxLZ2-ko1H_Me4ww/view?utm_content=DAF-SdXvTKU&utm_campaign=designshare&utm_medium=link&utm_source=editor',
+    name: 'Harrison Smart',
+    age: 27,
     description: 'Je suis tres bien et toi!'
   },
   {
-    image: 'https://s-media-cache-ak0.pinimg.com/564x/76/90/7d/76907d454d4cb62f07b4fdf92ae05371.jpg',
-    name: 'Alexis',
-    age: 32,
-    description: 'The greatest showgirl'
+    image: 'https://www.canva.com/design/DAF-SsQL6Sk/JhZf2F1H7LsxGdsOixqVDA/view?utm_content=DAF-SsQL6Sk&utm_campaign=designshare&utm_medium=link&utm_source=editor',
+    name: 'Victoria Ajay',
+    age: 19,
+    description: 'People are the beauty of life'
   },
   {
-    image: 'https://s-media-cache-ak0.pinimg.com/564x/62/86/33/6286333a4f160a24b11e6a7ee8ea0b38.jpg',
-    name: 'Caroline',
-    age: 22,
-    description: "I love cats and a big fan of Dolly Partons"
+    image: 'https://www.canva.com/design/DAF-Sj1Dk_8/v3xoJB3g5uUH0iaV_8aJoQ/view?utm_content=DAF-Sj1Dk_8&utm_campaign=designshare&utm_medium=link&utm_source=editor',
+    name: 'David York',
+    age: 21,
+    description: "Love cats and a big fan of Burna Boy"
   },
   null
 ];
