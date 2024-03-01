@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "friendsConnect",
+    "description": "Learning by doing 5/∞",
+    "slug": "friendsConnect",
+    "privacy": "public",
+    "sdkVersion": "15.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#ae81e3",
+    "icon": "https://www.canva.com/design/DAF-G35gmg8/bqdAHW1zXNsvKG8v_KsnPw/edit?utm_content=DAF-G35gmg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+    "loading": {
+      "icon": "https://www.canva.com/design/DAF-G35gmg8/bqdAHW1zXNsvKG8v_KsnPw/edit?utm_content=DAF-G35gmg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
