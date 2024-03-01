@@ -8,9 +8,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#ae81e3",
-    "icon": "https://www.canva.com/design/DAF-G35gmg8/bqdAHW1zXNsvKG8v_KsnPw/edit?utm_content=DAF-G35gmg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+    "icon": "https://s3.amazonaws.com/exp-brand-assets/ExponentEmptyManifest_192.png",
     "loading": {
-      "icon": "https://www.canva.com/design/DAF-G35gmg8/bqdAHW1zXNsvKG8v_KsnPw/edit?utm_content=DAF-G35gmg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "icon": "https://s3.amazonaws.com/exp-brand-assets/ExponentEmptyManifest_192.png",
       "hideExponentText": false
     },
     "packagerOpts": {
